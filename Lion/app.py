@@ -1,0 +1,6 @@
+print ("Hello World")
+print ("Langs is Awesome")
+print (" -----")
+print (" \   /")
+print ("  \  /")
+print ("   \/")
